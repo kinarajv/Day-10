@@ -1,0 +1,5 @@
+c:\C#\Bootcamp\vscode\Day 10\00SortedList\obj\Debug\net7.0\00SortedList.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 10\00SortedList\obj\Debug\net7.0\00SortedList.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 10\00SortedList\obj\Debug\net7.0\00SortedList.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 10\00SortedList\obj\Debug\net7.0\00SortedList.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 10\00SortedList\obj\Debug\net7.0\00SortedList.csproj.CoreCompileInputs.cache
