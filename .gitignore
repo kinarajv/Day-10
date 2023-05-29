@@ -1,14 +1,14 @@
 # Folder bin dan obj
-bin/
-obj/
+*/bin/
+*/obj/
 
 # File build hasil kompilasi
-*.exe
-*.dll
-*.pdb
+*/*.exe
+*/*.dll
+*/*.pdb
 
 # File NuGet packages
-packages/
+*/packages/
 
 # File user options
 *.user
