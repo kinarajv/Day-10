@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj": {}
+    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj": {
+    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj",
         "projectName": "00HashTable",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\obj\\",
+        "projectPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\00HashTable.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj": {}
+    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj": {
+    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
         "projectName": "00Stack",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\obj\\",
+        "projectPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
