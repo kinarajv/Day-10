@@ -18,12 +18,12 @@ namespace HasntableExample
 				Console.WriteLine(element);
 			}
 			
-			foreach (object obj in hashtable.Keys) //Use object because the key can be any type
+			foreach (object obj in hashtable.Keys)
 			{
 				Console.WriteLine(obj + " : " + hashtable[obj]);
 			}
 
-			foreach (DictionaryEntry de in hashtable) //DictionaryEntry is a struct of Key and Value
+			foreach (DictionaryEntry de in hashtable) 
 			{
 				Console.WriteLine($"Key: {de.Key}, Value: {de.Value}");
 			}

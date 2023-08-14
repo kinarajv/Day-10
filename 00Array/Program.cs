@@ -4,10 +4,10 @@
 	{
 		static void Main()
 		{
-			Employee emp1 = new Employee("John");
-			Employee emp2 = new Employee("Zack");
-			Employee emp3 = new Employee("Dean");
-			Employee emp4 = new Employee("Amber");
+			Employee emp1 = new Employee("John",5);
+			Employee emp2 = new Employee("Zack",2);
+			Employee emp3 = new Employee("Dean",4);
+			Employee emp4 = new Employee("Amber",1);
 
 			Employee[] Employees = { emp1, emp2, emp3, emp4 };
 			Employee[] Employees2 = new Employee[4];
@@ -35,25 +35,22 @@
 				
 			Array.Sort(Employees, (x, y) => x.Name.CompareTo(y.Name));
 			
-			Array.Sort(Employees2, CompareEmployeesByName);
-			
 			foreach (var employee in Employees)
 			{
-				Console.WriteLine($"{employee.Name}");
+				Console.WriteLine($"{employee.ID} : {employee.Name}");
 			}
 		}
 		
-		static int CompareEmployeesByName(Employee x, Employee y)
-		{
-			return x.Name.CompareTo(y.Name); //Using quicksort
-		}
+
 	}
 	class Employee
 	{
 		public string Name { get; set; }
-		public Employee(string name)
+		public int ID { get; set; }
+		public Employee(string name, int id)
 		{
 			Name = name;
+			ID = id;
 		}
 	}
 }
