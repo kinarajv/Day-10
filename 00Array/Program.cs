@@ -12,6 +12,7 @@
 			Employee[] Employees = { emp1, emp2, emp3, emp4 };
 			Employee[] Employees2 = new Employee[4];
 			Employee[] Employees3 = new[] { emp1, emp2, emp3, emp4 };
+			
 			Employees2[0] = emp1;
 			Employees2[1] = emp2;
 			Employees2[2] = emp3;
@@ -31,14 +32,17 @@
 			{
 				Console.WriteLine($"{employee.Name}");
 			}
-
+				
 			Array.Sort(Employees, (x, y) => x.Name.CompareTo(y.Name));
+			
 			Array.Sort(Employees2, CompareEmployeesByName);
+			
 			foreach (var employee in Employees)
 			{
 				Console.WriteLine($"{employee.Name}");
 			}
 		}
+		
 		static int CompareEmployeesByName(Employee x, Employee y)
 		{
 			return x.Name.CompareTo(y.Name); //Using quicksort

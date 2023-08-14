@@ -12,7 +12,7 @@ class Program
         myDictionary.Add("Apple", 3);
         myDictionary.Add("Cerry", 2);
         myDictionary.Add("Durian", 4);
-        myDictionary.Add("Ace", 1);
+        myDictionary.Add("Ace", 1); 
 
         // Add a new key-value pair to the dictionary
         myDictionary["Chocolate"] = 5;
