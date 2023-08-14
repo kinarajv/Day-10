@@ -28,7 +28,7 @@
 				Console.WriteLine($"Employee[{i}] = {Employees[i].Name}");
 			}
 
-			foreach (var employee in Employees)
+			foreach (Employee employee in Employees)
 			{
 				Console.WriteLine($"{employee.Name}");
 			}

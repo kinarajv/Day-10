@@ -15,7 +15,7 @@ class Program
 		// Example with List<T>
 		List<int> list = new List<int>();
 		list.Add(20);
-		// list.Add("world"); // Compilation error - cannot add string to list of ints
+		// list.Add("world"); // Compilation error
 		int num2 = list[0]; // No explicit cast required
 		Console.WriteLine(num2);
 	}

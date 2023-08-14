@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj": {}
+    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj": {
+    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj",
+        "projectUniqueName": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj",
         "projectName": "00ArrayList3",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\obj\\",
+        "projectPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\00ArrayList3.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00ArrayList3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
