@@ -9,10 +9,10 @@ namespace GenericDictionaryDemo
 		static void Main()
 		{
             List<string> myString = new();
-            //Creating a Dictionary with Key and value both are string type
+
             Dictionary<string, string> carBrands = new Dictionary<string, string>();
 
-			//Adding Elements to the Dictionary using Add Method of Dictionary class
+
 			carBrands.Add("Toyota", "Corolla, Camry, RAV4");
 			carBrands.Add("Ford", "F-150, Mustang, Explorer");
 			carBrands.Add("Honda", "Civic, Accord, CR-V");
