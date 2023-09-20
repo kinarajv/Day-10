@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+4tc3oaKtYkEA3Z2USwUipzT4Sr2ZofOeJQmI5TL/MfsEMuA+nE8lEXjtMRcZ0mAmby7GwzzP6XZ2bnmYK3ysA==",
+  "dgSpecHash": "YS01kzwWl/YXm050z0H7a0kYYVZh9Nf2wDwC5RKdv95af/lkwgla/dvQ6AW7YFcxXNsERh0muVJ2PKNQWvi+sA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00Queue\\00Queue.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Queue\\00Queue.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

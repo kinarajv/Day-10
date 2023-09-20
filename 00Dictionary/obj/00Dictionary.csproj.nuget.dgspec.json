@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj": {}
   },
   "projects": {
-    "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj",
         "projectName": "00Dictionary",
-        "projectPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00Dictionary\\obj\\",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Dictionary\\00Dictionary.csproj",
+        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

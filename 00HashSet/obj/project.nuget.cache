@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuOfRFe0qR8rjF2Qbx+M1Ncm7QqOetzQQUCfDZxV5j4ICP0a87pDzGeoiXB7Qsa4wYwI/eu9z0bASrN4g/tWGQ==",
+  "dgSpecHash": "5F+Olv29dipw+6Cn3eAan0mfSMBvzU2TbcoZ78zvQBq1PhXXks3ZoOM6spbMUC6Z50Rl1CPOWwoAhaIpQ0Llqg==",
   "success": true,
-  "projectFilePath": "d:\\C#\\Bootcamp\\vscode\\Day 10\\00HashSet\\00HashSet.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00HashSet\\00HashSet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

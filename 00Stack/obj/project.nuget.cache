@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FleVVKon45tWgBrfM52zkH14Li9XshenMKtJXKA3Es4UvYfm26E2QLrE5Xvo9vXGjAOgIGgufIBlgxC/TdzRKQ==",
+  "dgSpecHash": "ifN7IanIYE1+t8ibDO/Xzgc0LmGWTM9IAZp0beHmWZ6XRm/IORRjuVZ2lnf4d6Syj3974QzeOor7PZYZ5uQsNg==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00Stack\\00Stack.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

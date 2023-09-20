@@ -8,7 +8,7 @@ namespace StackCollectionDemo
 		static void Main(string[] args)
 		{
 			Stack stack = new Stack();
-
+			
 			stack.Push(10);
 			stack.Push("Hello");
 			stack.Push(3.14f);

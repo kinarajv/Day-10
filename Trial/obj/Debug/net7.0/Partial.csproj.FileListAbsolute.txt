@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 10\Trial\bin\Debug\net7.0\Partial.exe
+c:\C#\Bootcamp\vscode\Day 10\Trial\bin\Debug\net7.0\Partial.deps.json
+c:\C#\Bootcamp\vscode\Day 10\Trial\bin\Debug\net7.0\Partial.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 10\Trial\bin\Debug\net7.0\Partial.dll
+c:\C#\Bootcamp\vscode\Day 10\Trial\bin\Debug\net7.0\Partial.pdb
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.dll
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\refint\Partial.dll
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.pdb
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\Partial.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 10\Trial\obj\Debug\net7.0\ref\Partial.dll

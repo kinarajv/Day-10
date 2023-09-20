@@ -14,7 +14,7 @@ namespace HasntableExample
 			hashtable.Add("Email", "yes@yo.com");
 			hashtable.Add(123,123);
 
-			foreach(var element in hashtable) {
+			foreach(object? element in hashtable) {
 				Console.WriteLine(element);
 			}
 			

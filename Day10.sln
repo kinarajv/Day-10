@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -35,7 +35,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00HashSet", "00HashSet\00Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Dictionary", "00Dictionary\00Dictionary.csproj", "{7DFB18DE-CBC0-4A22-AF84-70246A67170E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trial", "Trial\Trial.csproj", "{81E3AF8F-6D30-4BEA-9B5B-EEE523606D18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial", "Trial\Partial.csproj", "{81E3AF8F-6D30-4BEA-9B5B-EEE523606D18}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution

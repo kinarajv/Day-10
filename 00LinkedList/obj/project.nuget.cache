@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SpolA+jCxW+l96zGH7UUIU0QxQEPijcawbZWKPX/SUiLTSAD+iRqLpwZHkSfFHDvriz038xtf4oah9pvfz7pEA==",
+  "dgSpecHash": "vb0djLWdzR+jbZF0swQR07/YmLsgzIEv09yUohRV8UQDOl/8NNYmSdz+86z21u5Up/r2IqB9Lcrgiy3PgWK2RA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 10\\00LinkedList\\00LinkedList.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 10\\00LinkedList\\00LinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
